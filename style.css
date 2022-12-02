@@ -1,5 +1,5 @@
 body{
-  background-image: ("alarm\ clock.jpg");  
+  background-image: url("alarm clock.jpg");  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
